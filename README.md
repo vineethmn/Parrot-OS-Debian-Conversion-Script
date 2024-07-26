@@ -4,6 +4,8 @@
 
 **Debian Conversion Script** is an installer script for ParrotOS. This project stands as a replacement for the [alternate-install](https://github.com/ParrotSec/alternate-install) which is no longer maintained. It is updated to the latest Parrot release.
 
+** Official Gitlab link https://gitlab.com/parrotsec/project/debian-conversion-script
+
 ## How to Use
 
 Using this script is quite simple. Follow the steps below:
